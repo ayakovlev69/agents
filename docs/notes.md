@@ -19,3 +19,4 @@ Notes and usage details for agents.
 - fix a small wording issue
 - fix a small wording issue
 - fix a small wording issue
+- fix a small wording issue
